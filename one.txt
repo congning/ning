@@ -1,4 +1,5 @@
 学习Git 开始了，我要加油哦！
 Git is a distributed version control system.
 到底发生了什么呢？
-感觉好奇怪啊！
+
+貌似不能提交时可查看修改？
