@@ -1,3 +1,4 @@
 学习Git 开始了，我要加油哦！
 Git is a distributed version control system.
-Git is free software.
+到底发生了什么呢？
+感觉好奇怪啊！
